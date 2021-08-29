@@ -1,4 +1,4 @@
- Hi, I’m @DamianKuras and im developer with ablity to create code that runs fast and smooth. 
+ Hi, I’m Damian Kuraś and im developer with ablity to create code that runs fast and smooth. 
 =
  I have experience creating my blog and other projects.
  I’m also interested in competeive programing.
