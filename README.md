@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Damain Kuraś 👋
 
-<!--
-**DamianKuras/DamianKuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer with a passion for coding and creating new things. I'm always looking for new challenges and learning opportunities.
 
-Here are some ideas to get you started:
+## Blog
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My blog](https://damiankuras.com/blog) Mostly related to alogrithims and data structures
+
+## Technologies
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiankuras&layout=compact&hide=html&theme=dark" alt="damiankuras technoloiges used stats" />
+<div/>
+
+## Contact Me 📫
+
+Feel free to contact me at damian_kuras@outlook.com.
