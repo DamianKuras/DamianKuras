@@ -8,9 +8,8 @@ I'm a self-taught developer with a passion for coding and creating new things. I
 
 ## Technologies
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damiankuras&layout=compact&hide=html&theme=dark" alt="damiankuras technoloiges used stats" />
-<div/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damiankuras&layout=compact&hide=html&theme=dark&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact Me 📫
 
