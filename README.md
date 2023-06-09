@@ -1,4 +1,6 @@
-# Hi, I'm Damain Kuraś 👋
+# Hi, I'm Damian Kuraś 👋
+
+## Welcome to My GitHub Profile.
 
 I'm a self-taught developer with a passion for coding and creating new things. I'm always looking for new challenges and learning opportunities.
 
